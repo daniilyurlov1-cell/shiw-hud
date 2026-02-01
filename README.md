@@ -1,7 +1,7 @@
 <img width="2948" height="497" alt="rsg_framework" src="https://github.com/user-attachments/assets/638791d8-296d-4817-a596-785325c1b83a" />
 
 # 🧭 rsg-hud
-**Player HUD for RSG Framework.**
+**Modified Player HUD for RSG Framework (rsg-hud with new stat Bladder. Food Diet system and Cleanless in Bath.**
 
 ![Platform](https://img.shields.io/badge/platform-RedM-darkred)
 ![License](https://img.shields.io/badge/license-GPL--3.0-green)
